@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BitMap</string>
+    <string name="dispText">Hello World!</string>
+    <string name="btnGo">Go!</string>
+</resources>
